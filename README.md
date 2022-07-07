@@ -1,2 +1,2 @@
 # Random-Choice-Picker
-Selects an option from several options
+Randomly selects an option from several inputed options
